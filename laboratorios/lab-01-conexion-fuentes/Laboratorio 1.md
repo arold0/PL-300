@@ -25,7 +25,7 @@ Eres un analista de datos para una cadena minorista internacional. La empresa ne
 ## Requisitos Previos
 
 1. Power BI Desktop instalado (última versión)
-2. [Archivos de laboratorio descargados](https://github.com/tu-usuario/PL-300/datos) que incluyen:
+2. [Archivos de laboratorio descargados](https://github.com/arold0/PL-300/tree/develop/laboratorios/lab-01-conexion-fuentes/datos) que incluyen:
    - `Ventas_2022_2023.xlsx`
    - Acceso a la base de datos de ejemplo (o script para crearla localmente)
    - `Clientes.csv`
