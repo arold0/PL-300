@@ -1,0 +1,40 @@
+{
+    "promociones": [
+      {
+        "PromocionID": "PROM2022-05",
+        "Descripcion": "Muebles de Oficina",
+        "FechaInicio": "2022-04-01",
+        "FechaFin": "2022-04-30",
+        "Descuento": 0.18,
+        "ProductosAplicables": ["P008", "P009", "P010"],
+        "RequiereCodigoCupon": true,
+        "CodigoCupon": "OFICINA18",
+        "LimiteUsos": 50,
+        "RegionesDisponibles": ["Este", "Oeste"]
+      },
+      {
+        "PromocionID": "PROM2022-06",
+        "Descripcion": "Software con Descuento",
+        "FechaInicio": "2022-05-01",
+        "FechaFin": "2022-05-31",
+        "Descuento": 0.25,
+        "ProductosAplicables": ["P015"],
+        "RequiereCodigoCupon": false,
+        "CodigoCupon": null,
+        "LimiteUsos": null,
+        "RegionesDisponibles": ["Norte", "Sur", "Este", "Oeste", "Centro"]
+      },
+      {
+        "PromocionID": "PROM2022-07",
+        "Descripcion": "Impresoras en Oferta",
+        "FechaInicio": "2022-06-01",
+        "FechaFin": "2022-06-30",
+        "Descuento": 0.15,
+        "ProductosAplicables": ["P006"],
+        "RequiereCodigoCupon": true,
+        "CodigoCupon": "PRINT15",
+        "LimiteUsos": 75,
+        "RegionesDisponibles": ["Norte", "Centro"]
+      }
+    ]
+  }

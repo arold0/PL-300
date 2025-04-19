@@ -1,0 +1,52 @@
+{
+    "promociones": [
+      {
+        "PromocionID": "PROM2022-01",
+        "Descripcion": "Descuento en Laptops",
+        "FechaInicio": "2022-01-01",
+        "FechaFin": "2022-01-31",
+        "Descuento": 0.15,
+        "ProductosAplicables": ["P001"],
+        "RequiereCodigoCupon": true,
+        "CodigoCupon": "LAPTOP15",
+        "LimiteUsos": 100,
+        "RegionesDisponibles": ["Norte", "Centro", "Este"]
+      },
+      {
+        "PromocionID": "PROM2022-02",
+        "Descripcion": "Oferta en Periféricos",
+        "FechaInicio": "2022-01-15",
+        "FechaFin": "2022-02-15",
+        "Descuento": 0.20,
+        "ProductosAplicables": ["P002", "P003", "P007"],
+        "RequiereCodigoCupon": false,
+        "CodigoCupon": null,
+        "LimiteUsos": null,
+        "RegionesDisponibles": ["Norte", "Sur", "Este", "Oeste", "Centro"]
+      },
+      {
+        "PromocionID": "PROM2022-03",
+        "Descripcion": "Descuento en Papelería",
+        "FechaInicio": "2022-02-01",
+        "FechaFin": "2022-02-28",
+        "Descuento": 0.10,
+        "ProductosAplicables": ["P011", "P012", "P013", "P014"],
+        "RequiereCodigoCupon": true,
+        "CodigoCupon": "PAPEL10",
+        "LimiteUsos": 200,
+        "RegionesDisponibles": ["Sur", "Centro"]
+      },
+      {
+        "PromocionID": "PROM2022-04",
+        "Descripcion": "Oferta Móviles y Tablets",
+        "FechaInicio": "2022-03-01",
+        "FechaFin": "2022-03-31",
+        "Descuento": 0.12,
+        "ProductosAplicables": ["P004", "P005"],
+        "RequiereCodigoCupon": false,
+        "CodigoCupon": null,
+        "LimiteUsos": null,
+        "RegionesDisponibles": ["Norte", "Sur", "Este", "Oeste", "Centro"]
+      }
+    ]
+  }
