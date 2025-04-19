@@ -1,0 +1,51 @@
+CategoriaID,CategoriaPadreID,NombreCategoria,Nivel,Descripcion,DepartamentoResponsable
+C001,,Electrónicos,1,Dispositivos y componentes electrónicos,Tecnología
+C002,C001,Computadoras,2,Equipos de computación para uso personal y profesional,Tecnología
+C003,C002,Laptops,3,Computadoras portátiles de diversos tipos,Tecnología
+C004,C002,Desktops,3,Computadoras de escritorio,Tecnología
+C005,C001,Periféricos,2,Dispositivos complementarios para equipos informáticos,Accesorios
+C006,C005,Monitores,3,Pantallas para visualización,Accesorios
+C007,C005,Teclados,3,Dispositivos de entrada de texto,Accesorios
+C008,C005,Ratones,3,Dispositivos de entrada para navegación,Accesorios
+C009,C001,Telefonía,2,Dispositivos de comunicación móvil,Comunicaciones
+C010,C009,Smartphones,3,Teléfonos inteligentes,Comunicaciones
+C011,C009,Tablets,3,Dispositivos táctiles portátiles,Comunicaciones
+C012,C001,Impresión,2,Equipos para impresión y escaneo,Tecnología
+C013,C012,Impresoras,3,Dispositivos para impresión en papel,Tecnología
+C014,C012,Escáneres,3,Dispositivos para digitalización de documentos,Tecnología
+C015,C001,Audio,2,Equipos de sonido y reproducción,Multimedia
+C016,C015,Auriculares,3,Dispositivos de audio personales,Multimedia
+C017,C015,Altavoces,3,Sistemas de reproducción de sonido,Multimedia
+C018,C001,Fotografía,2,Equipos para captura de imágenes,Multimedia
+C019,C018,Cámaras,3,Dispositivos para captura fotográfica,Multimedia
+C020,C018,Accesorios Fotografía,3,Complementos para equipos fotográficos,Multimedia
+C021,C001,Almacenamiento,2,Dispositivos para guardar información,Tecnología
+C022,C021,Discos Duros,3,Unidades de almacenamiento masivo,Tecnología
+C023,C021,Memorias USB,3,Dispositivos portátiles de almacenamiento,Tecnología
+C024,,Muebles,1,Mobiliario para oficina y hogar,Mobiliario
+C025,C024,Escritorios,2,Mesas para trabajo y estudio,Mobiliario
+C026,C024,Sillas,2,Asientos para uso en oficina,Mobiliario
+C027,C024,Almacenamiento,2,Muebles para organización y archivo,Mobiliario
+C028,C027,Archivadores,3,Muebles para organizar documentos,Mobiliario
+C029,C027,Estanterías,3,Sistemas para almacenamiento visible,Mobiliario
+C030,,Papelería,1,Artículos de escritura y oficina,Consumibles
+C031,C030,Papel,2,Materiales para impresión y escritura,Consumibles
+C032,C031,Resmas,3,Paquetes de hojas para impresión,Consumibles
+C033,C031,Cuadernos,3,Libretas para notas y apuntes,Consumibles
+C034,C030,Escritura,2,Implementos para escribir,Consumibles
+C035,C034,Bolígrafos,3,Instrumentos de escritura con tinta,Consumibles
+C036,C034,Lápices,3,Instrumentos de escritura con grafito,Consumibles
+C037,C030,Accesorios,2,Complementos para organización,Consumibles
+C038,C037,Grapadoras,3,Dispositivos para unir documentos,Consumibles
+C039,C037,Perforadoras,3,Herramientas para archivar documentos,Consumibles
+C040,C030,Presentación,2,Materiales para exhibición,Consumibles
+C041,C040,Pizarras,3,Superficies para escritura y presentación,Consumibles
+C042,C040,Rotafolios,3,Sistemas de presentación con hojas,Consumibles
+C043,,Software,1,Programas y licencias informáticas,Digital
+C044,C043,Productividad,2,Herramientas para trabajo y oficina,Digital
+C045,C043,Seguridad,2,Programas de protección informática,Digital
+C046,C043,Diseño,2,Software para creación de contenido,Digital
+C047,C043,Sistemas Operativos,2,Plataformas base para equipos,Digital
+C048,,Servicios,1,Prestaciones profesionales,Servicios
+C049,C048,Mantenimiento,2,Servicios de cuidado y reparación,Servicios
+C050,C048,Instalación,2,Servicios de puesta en marcha,Servicios

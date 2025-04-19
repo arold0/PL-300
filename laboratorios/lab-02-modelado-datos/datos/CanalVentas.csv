@@ -1,0 +1,7 @@
+CanalVentaID,NombreCanal,Descripcion,ComisionPromedio,CostoOperativo,FechaInicio,Estado
+1,Online,Ventas realizadas a través de la página web y aplicación móvil,0.05,15000.00,2020-01-01,Activo
+2,Tienda física,Ventas realizadas en establecimientos físicos propios,0.02,35000.00,2015-03-15,Activo
+3,Teléfono,Ventas realizadas a través del centro de llamadas,0.04,12000.00,2018-06-10,Activo
+4,Distribuidor,Ventas realizadas a través de distribuidores externos,0.08,5000.00,2019-09-01,Activo
+5,Marketplace,Ventas realizadas en plataformas de terceros,0.10,8000.00,2021-04-15,Activo
+6,Venta directa,Ventas realizadas por el equipo comercial en visitas a clientes,0.07,20000.00,2017-05-20,Activo
