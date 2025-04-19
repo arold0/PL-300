@@ -1,0 +1,22 @@
+ClienteID,Nombre,Apellido,Email,Telefono,Ciudad,Region,FechaRegistro,Segmento,LimiteCredito
+C001,Alfonso,Gómez,agomez@industriasglobales.com,+34 912 555 101,Madrid,Centro,2021-05-12,Corporativo,50000
+C002,María,López,mlopez@tecnologiaavanzada.com,+34 935 555 202,Barcelona,Este,2021-06-23,Corporativo,45000
+C003,Javier,Ruiz,jruiz@consultores.com,+34 954 555 303,Sevilla,Sur,2021-07-14,Corporativo,35000
+C004,Carmen,Fernández,cfernandez@educacion.org,+34 985 555 404,Oviedo,Norte,2021-08-05,Educación,25000
+C005,Eduardo,Martínez,emartinez@saludintegral.com,+34 963 555 505,Valencia,Este,2021-09-16,Salud,30000
+C006,Sofía,Díaz,sdiaz@comerciorapido.com,+34 922 555 606,Santa Cruz,Sur,2021-10-27,Minorista,15000
+C007,Miguel,Sánchez,msanchez@solucionesfinancieras.com,+34 944 555 707,Bilbao,Norte,2021-11-18,Financiero,40000
+C008,Lucía,Torres,ltorres@distribuidora.com,+34 976 555 808,Zaragoza,Centro,2021-12-09,Distribución,20000
+C001,Alfonso,Gómez,agomez@industriasglobales.com,+34 912 555 101,Madrid,Centro,2021-05-12,Corporativo,50000
+C009,Roberto,Navarro,rnavarro@tecnologias.com,+34 968 555 909,Murcia,Sur,2022-01-20,Tecnología,30000
+C010,Ana,Jiménez,,+34 952 555 010,Málaga,Sur,2022-02-11,Minorista,10000
+C011,Pablo,García,pgarcia@consultoria.es,+34 981 555 111,A Coruña,Norte,2022-03-04,Corporativo,25000
+C012,Elena,Vázquez,evazquez@educacionprivada.org,+34 967 555 212,Albacete,Centro,2022-04-15,Educación,20000
+C013,Carlos,Romero,cromero@seguros.com,,Madrid,Centro,2022-05-26,Financiero,35000
+C014,Beatriz,Serrano,bserrano@tecnologia.com,+34 953 555 414,Jaén,Sur,2022-06-17,Tecnología,15000
+C015,David,Ortega,dortega@comercio.es,+34 926 555 515,Ciudad Real,Centro,2022-07-08,Minorista,5000
+C016,Isabel,Moreno,imoreno@educacionsuperior.org,+34 925 555 616,Toledo,Centro,2022-08-19,Educación,25000
+C017,Alejandro,Gutiérrez,agutierrez@distribucion.com,+34 942 555 717,Santander,Norte,2022-09-30,Distribución,20000
+C018,Patricia,Castillo,pcastillo@consultoria.es,+34 977 555 818,Tarragona,Este,,Corporativo,30000
+C019,Fernando,Alonso,falonso@industriasauto.com,+34 927 555 919,Cáceres,Sur,2022-11-22,Automotriz,40000
+C020,Silvia,Blanco,sblanco@comercioonline.com,+34 988 555 020,Ourense,Norte,2022-12-13,Ecommerce,15000
