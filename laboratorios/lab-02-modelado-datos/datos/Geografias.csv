@@ -1,0 +1,41 @@
+GeoID,Pais,Region,Ciudad,CodigoPostal,Latitud,Longitud,RegionVentas,ZonaHoraria
+G001,España,Comunidad de Madrid,Madrid,28001,40.4168,-3.7038,Centro,Europe/Madrid
+G002,España,Comunidad de Madrid,Alcalá de Henares,28805,40.4819,-3.3635,Centro,Europe/Madrid
+G003,España,Comunidad de Madrid,Móstoles,28931,40.3223,-3.8658,Centro,Europe/Madrid
+G004,España,Cataluña,Barcelona,08001,41.3851,2.1734,Este,Europe/Madrid
+G005,España,Cataluña,Sabadell,08201,41.5447,2.1097,Este,Europe/Madrid
+G006,España,Cataluña,Terrassa,08221,41.56,2.0104,Este,Europe/Madrid
+G007,España,Andalucía,Sevilla,41001,37.3892,-5.9845,Sur,Europe/Madrid
+G008,España,Andalucía,Málaga,29001,36.7213,-4.4214,Sur,Europe/Madrid
+G009,España,Andalucía,Córdoba,14001,37.8882,-4.7794,Sur,Europe/Madrid
+G010,España,Comunidad Valenciana,Valencia,46001,39.4699,-0.3763,Este,Europe/Madrid
+G011,España,Comunidad Valenciana,Alicante,03001,38.3453,-0.4831,Este,Europe/Madrid
+G012,España,Comunidad Valenciana,Elche,03201,38.2655,-0.6957,Este,Europe/Madrid
+G013,España,Galicia,A Coruña,15001,43.3708,-8.3959,Norte,Europe/Madrid
+G014,España,Galicia,Vigo,36201,42.2328,-8.7125,Norte,Europe/Madrid
+G015,España,Galicia,Santiago de Compostela,15701,42.8782,-8.5448,Norte,Europe/Madrid
+G016,España,País Vasco,Bilbao,48001,43.2623,-2.9349,Norte,Europe/Madrid
+G017,España,País Vasco,San Sebastián,20001,43.3208,-1.9844,Norte,Europe/Madrid
+G018,España,País Vasco,Vitoria,01001,42.8467,-2.6716,Norte,Europe/Madrid
+G019,España,Aragón,Zaragoza,50001,41.6563,-0.8788,Centro,Europe/Madrid
+G020,España,Aragón,Huesca,22001,42.1362,-0.4087,Centro,Europe/Madrid
+G021,España,Castilla y León,Valladolid,47001,41.6522,-4.7286,Centro,Europe/Madrid
+G022,España,Castilla y León,Salamanca,37001,40.9701,-5.6635,Centro,Europe/Madrid
+G023,España,Castilla y León,León,24001,42.5987,-5.5671,Norte,Europe/Madrid
+G024,España,Castilla-La Mancha,Toledo,45001,39.8628,-4.0273,Centro,Europe/Madrid
+G025,España,Castilla-La Mancha,Albacete,02001,38.9942,-1.8564,Centro,Europe/Madrid
+G026,España,Castilla-La Mancha,Ciudad Real,13001,38.9848,-3.9273,Centro,Europe/Madrid
+G027,España,Canarias,Las Palmas de Gran Canaria,35001,28.1248,-15.4301,Sur,Atlantic/Canary
+G028,España,Canarias,Santa Cruz de Tenerife,38001,28.4636,-16.2518,Sur,Atlantic/Canary
+G029,España,Murcia,Murcia,30001,37.9922,-1.1307,Sur,Europe/Madrid
+G030,España,Murcia,Cartagena,30201,37.6056,-0.9915,Sur,Europe/Madrid
+G031,España,Asturias,Oviedo,33001,43.3614,-5.8497,Norte,Europe/Madrid
+G032,España,Asturias,Gijón,33201,43.5452,-5.6635,Norte,Europe/Madrid
+G033,España,Cantabria,Santander,39001,43.4623,-3.8099,Norte,Europe/Madrid
+G034,España,Navarra,Pamplona,31001,42.8169,-1.6432,Norte,Europe/Madrid
+G035,España,La Rioja,Logroño,26001,42.4663,-2.4396,Norte,Europe/Madrid
+G036,España,Extremadura,Badajoz,06001,38.8794,-6.9706,Sur,Europe/Madrid
+G037,España,Extremadura,Cáceres,10001,39.4752,-6.3729,Sur,Europe/Madrid
+G038,España,Islas Baleares,Palma de Mallorca,07001,39.5699,2.6501,Este,Europe/Madrid
+G039,España,Islas Baleares,Ibiza,07800,38.9062,1.4211,Este,Europe/Madrid
+G040,España,Melilla,Melilla,52001,35.2923,-2.9381,Sur,Europe/Madrid

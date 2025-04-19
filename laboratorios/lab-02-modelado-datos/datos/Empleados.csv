@@ -1,0 +1,51 @@
+EmpleadoID,Nombre,Apellido,Email,Puesto,Departamento,FechaContratacion,RegionAsignada,GerenteID,Activo
+E001,María,López,mlopez@empresa.com,Vendedor,Ventas,2020-05-15,Este,,1
+E002,Carlos,Rodríguez,crodriguez@empresa.com,Vendedor,Ventas,2020-06-12,Norte,E005,1
+E003,Laura,Martínez,lmartinez@empresa.com,Vendedor,Ventas,2020-06-20,Sur,E005,1
+E004,Juan,García,jgarcia@empresa.com,Vendedor,Ventas,2020-07-05,Sur,E005,1
+E005,Fernando,Sánchez,fsanchez@empresa.com,Gerente Ventas,Ventas,2019-10-10,Centro,E012,1
+E006,Ana,Pérez,aperez@empresa.com,Especialista,Marketing,2020-08-15,Norte,E011,1
+E007,Miguel,Díaz,mdiaz@empresa.com,Especialista,Marketing,2020-09-01,Sur,E011,1
+E008,Sofía,Hernández,shernandez@empresa.com,Asistente,Marketing,2021-02-15,Centro,E011,1
+E009,Javier,González,jgonzalez@empresa.com,Asistente,Marketing,2021-03-05,Centro,E011,1
+E010,Elena,Ruiz,eruiz@empresa.com,Vendedor,Ventas,2021-04-20,Centro,E005,1
+E011,Pablo,Álvarez,palvarez@empresa.com,Gerente Marketing,Marketing,2019-11-25,Centro,E014,1
+E012,Carmen,Moreno,cmoreno@empresa.com,Director Comercial,Dirección,2018-07-10,Centro,E014,1
+E013,Roberto,Jiménez,rjimenez@empresa.com,Analista,Finanzas,2021-06-10,Centro,E017,1
+E014,Isabel,Torres,itorres@empresa.com,Director General,Dirección,2017-01-15,Centro,,1
+E015,David,Navarro,dnavarro@empresa.com,Analista,Finanzas,2021-08-01,Norte,E017,1
+E016,Lucía,Vázquez,lvazquez@empresa.com,Analista,Finanzas,2021-09-15,Este,E017,1
+E017,Alberto,Castro,acastro@empresa.com,Gerente Finanzas,Finanzas,2019-05-20,Centro,E014,1
+E018,Patricia,Ortega,portega@empresa.com,Técnico,Operaciones,2021-11-05,Sur,E021,1
+E019,Jorge,Serrano,jserrano@empresa.com,Técnico,Operaciones,2022-01-10,Este,E021,1
+E020,Marta,Romero,mromero@empresa.com,Técnico,Operaciones,2022-02-15,Norte,E021,1
+E021,Raúl,Blanco,rblanco@empresa.com,Gerente Operaciones,Operaciones,2019-08-10,Centro,E014,1
+E022,Cristina,Molina,cmolina@empresa.com,Analista Inventario,Operaciones,2022-03-15,Centro,E021,1
+E023,Diego,Gutiérrez,dgutierrez@empresa.com,Analista Inventario,Operaciones,2022-04-01,Centro,E021,1
+E024,Nuria,Medina,nmedina@empresa.com,Vendedor,Ventas,2022-05-15,Este,E005,1
+E025,Víctor,Santos,vsantos@empresa.com,Vendedor,Ventas,2022-05-28,Norte,E005,1
+E026,Raquel,Pastor,rpastor@empresa.com,Especialista,Marketing,2022-06-15,Sur,E011,1
+E027,Francisco,Castillo,fcastillo@empresa.com,Vendedor,Ventas,2022-07-01,Este,E005,1
+E028,Silvia,Flores,sflores@empresa.com,Analista,Finanzas,2022-07-15,Centro,E017,1
+E029,Alejandro,Ramos,aramos@empresa.com,Técnico,Operaciones,2022-08-01,Centro,E021,1
+E030,Paula,Calvo,pcalvo@empresa.com,Asistente,Marketing,2022-08-15,Centro,E011,1
+E031,Adrián,Guerrero,aguerrero@empresa.com,Vendedor,Ventas,2022-09-01,Sur,E005,1
+E032,Natalia,Crespo,ncrespo@empresa.com,Analista Inventario,Operaciones,2022-09-15,Centro,E021,1
+E033,Luis,Mendez,lmendez@empresa.com,Vendedor,Ventas,2020-07-15,Este,E005,0
+E034,Pilar,Rey,prey@empresa.com,Especialista,Marketing,2020-10-01,Norte,E011,0
+E035,Alfonso,Aguilar,aaguilar@empresa.com,Analista,Finanzas,2021-04-15,Centro,E017,0
+E036,Marina,Duran,mduran@empresa.com,Técnico,Operaciones,2021-07-01,Sur,E021,0
+E037,Ignacio,Vega,ivega@empresa.com,Vendedor,Ventas,2021-11-15,Centro,E005,0
+E038,Celia,Pascual,cpascual@empresa.com,Asistente,Marketing,2022-01-01,Este,E011,0
+E039,Rubén,Ferrer,rferrer@empresa.com,Analista Inventario,Operaciones,2022-03-01,Norte,E021,0
+E040,Teresa,Santana,tsantana@empresa.com,Vendedor,Ventas,2020-09-15,Sur,E005,1
+E041,Guillermo,Herrera,gherrera@empresa.com,Especialista,Marketing,2021-02-01,Centro,E011,1
+E042,Beatriz,Soto,bsoto@empresa.com,Analista,Finanzas,2021-06-15,Este,E017,1
+E043,Samuel,Leon,sleon@empresa.com,Técnico,Operaciones,2021-12-01,Norte,E021,1
+E044,Clara,Márquez,cmarquez@empresa.com,Vendedor,Ventas,2022-02-01,Centro,E005,1
+E045,Álvaro,Hidalgo,ahidalgo@empresa.com,Asistente,Marketing,2022-05-01,Sur,E011,1
+E046,Esther,Cortes,ecortes@empresa.com,Analista Inventario,Operaciones,2022-07-01,Este,E021,1
+E047,Rubén,Giménez,rgimenez@empresa.com,Vendedor,Ventas,2022-09-01,Norte,E005,1
+E048,Mónica,Pardo,mpardo@empresa.com,Especialista,Marketing,2022-10-01,Centro,E011,1
+E049,José,Bravo,jbravo@empresa.com,Analista,Finanzas,2022-11-01,Sur,E017,1
+E050,Inés,Gallego,igallego@empresa.com,Técnico,Operaciones,2022-12-01,Este,E021,1
