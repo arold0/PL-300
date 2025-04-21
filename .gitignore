@@ -1,0 +1,64 @@
+# Archivos generados por el sistema macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Icono de la aplicación
+Icon
+
+# Thumbnails
+._*
+
+# Archivos que pueden aparecer en la raíz del volumen
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directorios potencialmente creados en recursos externos
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Directorios y archivos específicos de IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Entornos virtuales de Python
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de dependencias
+node_modules/
+bower_components/
+
+# Archivos de compilación y caché
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.sass-cache/
